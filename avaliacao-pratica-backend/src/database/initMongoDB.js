@@ -7,6 +7,10 @@ export function getClient(){
     return client;
 }
 
+export function getDBName(){
+    return 'avaliacao-pratica';
+}
+
 class MongoConnect {
     constructor(){
         this.init();
