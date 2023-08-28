@@ -1,0 +1,31 @@
+table {
+  border: 1px solid #000;
+  width: 100%;
+  color: #fff;
+  border-radius: 5px;
+  height: 30px;
+}
+
+tbody {
+  border-bottom: 1px solid #000;
+}
+
+th {
+  background-color: #121214;
+  border-bottom: 1px solid #000;
+  border-right: 1px solid #000;
+  padding: 2px 4px;
+
+}
+
+td {
+  border-right: 1px solid #000;
+  padding: 2px 4px;
+  text-align: center;
+  border-bottom: 1px solid #000;
+  border-right: 1px solid #000;
+}
+
+tr {
+  height: 50px;
+}
