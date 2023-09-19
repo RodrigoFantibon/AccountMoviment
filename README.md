@@ -1,3 +1,18 @@
+Este sistema consiste em uma aplicação web para o cadastro de pessoas e o controle de uma conta bancária. 
+As tecnologias utilizadas foram:
+
+Linguagens:
+
+JavaScript
+React
+Node
+
+
+Bibliotecas:
+
+zod (validações)
+React table
+
 Cadastro de pessoa
 
 - Regex para a primeira letra do nome e do sobrenome ser maiúscula, o CPF não pode se repetir e deve conter apenas números.
